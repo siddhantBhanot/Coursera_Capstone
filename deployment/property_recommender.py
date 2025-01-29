@@ -24,6 +24,8 @@ def filter_locations(df, budget, amenities):
 # Load data
 df = load_data()
 
+st.markdown("[View the source code on GitHub](https://github.com/siddhantBhanot/Coursera_Capstone)", unsafe_allow_html=True)
+
 # Streamlit UI
 st.title("🏡 Delhi Locality Recommender")
 st.write("Enter your budget and select amenities to find the best localities for you.")
