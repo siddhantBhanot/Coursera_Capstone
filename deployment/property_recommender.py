@@ -5,7 +5,7 @@ from streamlit_folium import folium_static
 
 # Load the dataset
 def load_data():
-    df = pd.read_csv("delhi_locality_data.csv")  # Ensure your CSV file is named correctly
+    df = pd.read_csv("deployment/delhi_locality_data.csv")
     return df
 
 # Function to filter locations based on user input
