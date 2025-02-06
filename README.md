@@ -20,3 +20,8 @@ The following data is required
  </ul>
 
 
+# Deployment
+**Streamlit App**:
+   A Streamlit application is deployed and can be accessed here: [Delhi Locality Recommender](https://courseracapstone-wh4aihzgahbjp2wpdysjae.streamlit.app/)
+
+
